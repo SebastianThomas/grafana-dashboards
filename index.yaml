@@ -3,6 +3,16 @@ entries:
   cluster:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-04-14T11:32:46.961147841Z"
+    description: CloudNativePG Grafana Cluster Dashboard.
+    digest: c70685bbc39093a52b8f886d2542212d0af2b7383c3423a78140a6f33bab5347
+    name: cluster
+    type: application
+    urls:
+    - https://github.com/cloudnative-pg/grafana-dashboards/releases/download/cluster-v0.0.4/cluster-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-08-18T18:13:22.196682793Z"
     description: CloudNativePG Grafana Cluster Dashboard.
     digest: 6db4000ab7be45f9e1f6c7f20acfd550405f57d56de00170ce00aa13d488c942
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/cloudnative-pg/grafana-dashboards/releases/download/cluster-v0.0.1/cluster-0.0.1.tgz
     version: 0.0.1
-generated: "2024-08-18T18:13:22.196738537Z"
+generated: "2025-04-14T11:32:46.961164012Z"
